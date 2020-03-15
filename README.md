@@ -1,3 +1,5 @@
+TEST
+
 Steps to Run KnowItAll:
 1. install Node, Angular, Express, MySQL
 2. Open up MySQL and connect to a localhost. Open up the scripts in the LetsGITit directory and run DUMP.sql script first, and then DummyData.sql after (in that exact order).
