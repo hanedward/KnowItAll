@@ -31,3 +31,5 @@ WHAT WORKS:
 - cookies work
 	- user who logged in will stay in session
 	- if user trys to log in with the same user account, error message at bottom of login page will display that the user is already logged in.
+
+!Login Screen(https://github.com/hanedward/KnowItAll/blob/README_images/1.png?raw=true)
