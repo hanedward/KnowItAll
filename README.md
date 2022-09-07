@@ -1,4 +1,7 @@
-Steps to Run KnowItAll:
+# KnowItAll
+A crowdsourced RESTful single page web application that provides a hub for students to post, rate, and comment on various topics about USC.
+
+## Steps to Run KnowItAll:
 1. install Node, Angular, Express, MySQL
 2. Open up MySQL and connect to a localhost. Open up the scripts in the LetsGITit directory and run DUMP.sql script first, and then DummyData.sql after (in that exact order).
 3. Once you installed, inside the directory of LetsGITit in the terminal, run this command: npm start
@@ -32,4 +35,21 @@ WHAT WORKS:
 	- user who logged in will stay in session
 	- if user trys to log in with the same user account, error message at bottom of login page will display that the user is already logged in.
 
-![alt text](https://github.com/hanedward/KnowItAll/blob/master/README%20(images)/1.png?raw=true)
+# Main Page
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/1.png"/><br></br>
+
+# Login Page
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/2.png"/><br></br>
+
+# SignUp Page
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/3.png"/><br></br>
+
+# Profile Page
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/4.png"/><br></br>
+
+# Creating A New Post Page
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/5.png"/><br></br>
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/6.png"/><br></br>
+
+# User Post page
+<img src="https://github.com/hanedward/KnowItAll/blob/main/README%20images/7.png"/><br></br>
